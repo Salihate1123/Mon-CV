@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+.sidbar{
+    padding: 20px;
+    background-color: rgb(193, 166, 166);
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-bottom: -12px;
+
+}
+.content{
+    padding: 30px;
+}
+#stylecv{
+    text-decoration: underline;
+}
